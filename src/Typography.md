@@ -113,5 +113,8 @@ cell 3 | cell 4
 [AlanDecode](https://www.imalan.cn)+(https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&r=G&d=)
 [/links]
 
+[links]
+[Cody](https://blog.codynet.work)+(https://secure.gravatar.com/avatar/bc695bd270635749c2f01e73890f4f21)
+[/links]
 
 [1]: ./images/1463017562.jpg
