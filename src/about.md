@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: cody23333@gmail.com
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[@cody2333](https://t.me/cody2333)
