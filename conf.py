@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "discodyer/Blog-With-GitHub-Codynet.work"
 }
 
 # 站点设置
@@ -24,16 +24,11 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Cody"
 email = "cody23333@gmail.com"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://blog.codynet.work"
 description = "即使你缩成一团 现实也不会有所改变哦"
-key_words = ['Maverick', 'Cody', 'blog']
+key_words = ['Cody', 'blog']
 language = 'zh-CN'
 external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
     {
         "name": "三無計劃",
         "url": "https://www.imalan.cn",
@@ -61,18 +56,18 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/Cody2333",
         "icon": "gi gi-twitter"
     },
     {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "name": "GayHub",
+        "url": "https://github.com/discodyer",
         "icon": "gi gi-github"
     },
     {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
+        "name": "Telegram",
+        "url": "https://t.me/cody2333",
+        "icon": "gi gi-telegram"
     }
 ]
 
