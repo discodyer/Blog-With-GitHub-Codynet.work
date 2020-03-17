@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Codynet.work/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "discodyer/@gh-pages"
 }
 # 站点设置
 site_name = "Codyの杂货铺"
