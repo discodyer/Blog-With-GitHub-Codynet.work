@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "discodyer/Blog-With-GitHub-Codynet.work"
+    "repo": "discodyer/Blog-With-GitHub-Codynet.work@gh-pages"
 }
 
 # 站点设置
