@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Codynet.work/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "Codyの杂货铺"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}LOGO.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Cody"
 email = "cody23333@gmail.com"
