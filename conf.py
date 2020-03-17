@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/"
+site_prefix = "/Blog-With-GitHub-Codynet.work/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "discodyer/Blog-With-GitHub-Codynet.work@master"
+    "repo": "discodyer/Blog-With-GitHub-Codynet.work@gh-pages"
 }
 
 # 站点设置
