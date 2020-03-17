@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "discodyer/Blog-With-GitHub-Codynet.work@gh-pages"
 }
 # 站点设置
 site_name = "Codyの杂货铺"
