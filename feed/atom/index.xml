@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Codyの杂货铺</title><updated>2020-03-19T00:39:20.124690+08:06</updated><author><name>Cody</name><email>cody23333@gmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/discodyer/Blog-With-GitHub-Codynet.work@gh-pages/LOGO.png</logo><subtitle>即使你缩成一团 现实也不会有所改变哦</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2020-03-19T00:39:20.124805+00:00</updated><author><name>AlanDecode</name><email>cody23333@gmail.com</email><uri>https://blog.codynet.work</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Codyの杂货铺</title><updated>2020-03-19T00:41:09.696993+08:06</updated><author><name>Cody</name><email>cody23333@gmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/discodyer/Blog-With-GitHub-Codynet.work@gh-pages/LOGO.png</logo><subtitle>即使你缩成一团 现实也不会有所改变哦</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2020-03-19T00:41:09.697122+00:00</updated><author><name>AlanDecode</name><email>cody23333@gmail.com</email><uri>https://blog.codynet.work</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -79,7 +79,7 @@
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
 &lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://blog.codynet.work" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/bc695bd270635749c2f01e73890f4f21"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;Cody&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/watch-wuxianbao-Live-with-a-virtual-machine/</id><title>关于如何使用虚拟机看无限宝直播</title><updated>2020-03-19T00:39:20.124749+00:00</updated><author><name>Cody</name><email>cody23333@gmail.com</email><uri>https://blog.codynet.work</uri></author><content>&lt;p&gt;关于如何使用虚拟机看无限宝直播&lt;/p&gt;
+&lt;a style="display:block" target="_blank" href="https://blog.codynet.work" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/bc695bd270635749c2f01e73890f4f21"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;Cody&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/watch-wuxianbao-Live-with-a-virtual-machine/</id><title>关于如何使用虚拟机看无限宝直播</title><updated>2020-03-19T00:41:09.697058+00:00</updated><author><name>Cody</name><email>cody23333@gmail.com</email><uri>https://blog.codynet.work</uri></author><content>&lt;p&gt;关于如何使用虚拟机看无限宝直播&lt;/p&gt;
 &lt;p&gt;大家肯定对无限宝这个东西不陌生，但虚拟机大部分人不知道是什么&lt;br&gt;
 这样的话，咱只能借用刷机鸽的话来概括咯&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;”我先告诉你们这是干什么的：&lt;br&gt;
@@ -92,7 +92,7 @@
 &lt;h1&gt;如何使用虚拟机&lt;/h1&gt;
 &lt;blockquote&gt;&lt;p&gt;这里为了方便解释，稍微概括一下虚拟机的作用&lt;br&gt;
 把你的电脑比作一个房间，那么虚拟机就是一个箱子&lt;br&gt;
-箱子有大有小，形状和能容纳的东西也不一样
+箱子有大有小，形状和能容纳的东西也不一样&lt;br&gt;
 但好处就是里面可以放各种东西而不影响外面的活动&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;所以，这个&lt;strong&gt;箱子&lt;/strong&gt;就是咱们们要用到的 &lt;strong&gt;虚 拟 机&lt;/strong&gt;&lt;/p&gt;
