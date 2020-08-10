@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Codyの杂货铺</title><link>/</link><description>即使你缩成一团 现实也不会有所改变哦</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/discodyer/Blog-With-GitHub-Codynet.work@gh-pages/LOGO.png</url><title>Codyの杂货铺</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Wed, 05 Aug 2020 06:16:50 +0806</lastBuildDate><pubDate>Wed, 05 Aug 2020 06:16:50 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Codyの杂货铺</title><link>/</link><description>即使你缩成一团 现实也不会有所改变哦</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/discodyer/Blog-With-GitHub-Codynet.work@gh-pages/LOGO.png</url><title>Codyの杂货铺</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 10 Aug 2020 13:38:57 +0806</lastBuildDate><pubDate>Mon, 10 Aug 2020 13:38:57 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -200,6 +200,7 @@ xx班xxx同学因家离学校较远，乘坐公交换乘线路较多，barabara�
 &lt;h2&gt;写在前面：&lt;/h2&gt;
 &lt;p&gt;如果你需要住宿，而且家离得比较远，请在8.2日报道的时候（也就是新生第一次报道的时候和老师说）&lt;/p&gt;
 &lt;p&gt;注意，这个宿舍指南只是前几年的经验之谈，而且只针对本部，请以实际情况为准。金阊校区指南请看&lt;a href="https://docs.qq.com/doc/DZkVNR1dNRHN2UG9L"&gt;https://docs.qq.com/doc/DZkVNR1dNRHN2UG9L&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;此页面的原始地址是&lt;a href="https://blog.codynet.work/archives/zhusuzhinanv2020/"&gt;https://blog.codynet.work/archives/zhusuzhinanv2020/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我校于2018年秋季开学开始提供住宿。住宿确实能给学生带来极大的方便，但是否与学生的学习成绩有关这是因人而异的。据老师所说，我校10年前也曾开办过宿舍，而且毕业生平均成绩高于走读生。&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;em&gt;目录&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -251,6 +252,9 @@ xx班xxx同学因家离学校较远，乘坐公交换乘线路较多，barabara�
 &lt;p&gt;记得带衣架 &lt;a href="#2.4"&gt;查看条目4.洗衣机以及烘干机&lt;/a&gt;可以洗衣服和晾衣服。&lt;/p&gt;
 &lt;p&gt;带小台灯的话，别打扰到别的同学了，熄灯是11点，但作业多的话我一般是蹲厕所写的。&lt;/p&gt;
 &lt;p&gt;每个宿舍里面应该都有一张桌子以及不少于3张椅子。&lt;/p&gt;
+&lt;p&gt;每个宿舍都有一台电话，但是不能拨出去，只能打给阿姨。如果要拨给家长的话只能用阿姨那边的电话。&lt;/p&gt;
+&lt;p&gt;电话早上6：15会响。自己带闹钟记得别打扰到舍友。&lt;/p&gt;
+&lt;p&gt;注意宿舍早上起来可能会造成厕所拥挤的情况，请各自协商。&lt;/p&gt;
 &lt;h3 id="2.2"&gt;2.关于手机&lt;/h3&gt;&lt;p&gt;18年开学开始住宿生带手机需要上交，可是自19年开学开始，学生不允许带手机到宿舍。&lt;/p&gt;
 &lt;p&gt;当然，被抓到就要暂停1个月的住宿，第二次被发现就直接退宿了。&lt;/p&gt;
 &lt;h3 id="2.3"&gt;3.床位是怎么分配的&lt;/h3&gt;&lt;p&gt;床位的分配是按照班级来的，有可能会存在几个班级一起住的情况。
